@@ -5,15 +5,17 @@ Easy to use graphical interface for generating SAS code.
 <br>
 
 
-# Built Statements
+# Handled Statements
 
-> proc means
+## proc means
 
-proc means data=*input_data*;
-	var *your_variable*;
-run;
+proc means data=*input_data*; <br/>
+	var *your_variable*; <br/>
+run; <br/>
 
-> proc print
+<br>
 
-proc print data=*input_data*;
-run;
+## proc print
+
+proc print data=*input_data*; <br/>
+run; <br/>
