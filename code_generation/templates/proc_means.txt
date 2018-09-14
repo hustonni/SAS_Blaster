@@ -1,0 +1,3 @@
+proc means data=*data_set*;
+	var *user_variables*;
+run;

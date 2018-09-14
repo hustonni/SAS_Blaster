@@ -10,7 +10,7 @@ Easy to use graphical interface for generating SAS code.
 ## proc means
 
 proc means data=*input_data*; <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;var *your_variable*; <br/>
+&emsp;var *your_variable*; <br/>
 run; <br/>
 
 <br>
